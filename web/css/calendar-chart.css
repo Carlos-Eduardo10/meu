@@ -1,0 +1,11 @@
+#monthLabel{
+    font-size: 20px;
+    font-family: arial;
+    max-width: 710px;
+    margin: 0px auto;
+    background-color: #0288d1;
+    color: white;
+    font-weight: bold;
+    padding:10px;
+    text-align: center;
+}
